@@ -27,7 +27,7 @@ max1=a[i];
 if(max1==k)
 {
 max1=-1;                         // time complexity is O(n) 
-return max1;                    //overall sapce complexity is O(n)
+return max1;                    //overall sapce complexity is O(1)
 }
 else 
 {
